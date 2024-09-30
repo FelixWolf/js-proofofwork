@@ -1,5 +1,5 @@
 # Choose one
-# ZLib
+## ZLib
 ```
 Copyright (c) 2024 Kyler "Félix" Eastridge
 
@@ -20,7 +20,7 @@ freely, subject to the following restrictions:
 3. This notice may not be removed or altered from any source distribution.
 ```
 
-# Unlicense
+## Unlicense
 ```
 This is free and unencumbered software released into the public domain.
 
