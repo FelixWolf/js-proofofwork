@@ -1,6 +1,8 @@
 # Really fast Proof of Work for javascript
 Emscripten + Wasm. It is designed to not freeze the browser when doing this by limiting it to 100ms per calculation cycle.
-This can be changed in the maxMS class variable.
+This can be changed in the `maxMS` class variable.
+
+Also the wasm file is packed inside the JS using magic.
 
 # Proof of work syntax:
 ## Calculating on browser:
